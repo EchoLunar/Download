@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://52.221.232.118:11180/renkewei/downloadipa/-/blob/3f2af5e8f5eeeb3d4fcef1f6ad0701017df6b925/Starohm-beta.ipa</string>
+					<string>http://52.221.232.118:11180/renkewei/downloadipa/-/raw/main/Starohm-beta.ipa?ref_type=heads&inline=false</string>
 				</dict>
 			</array>
 			<key>metadata</key>
